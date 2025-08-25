@@ -20,13 +20,13 @@ Using real-world survey and socioeconomic data, the analysis identifies which of
 
 **Ranked impact on happiness:**
 
--Health
+1.Health
 
--Wealth
+2.Wealth
 
--Corruption
+3.Corruption
 
--Safety
+4.Safety
 
 # **Tools and Libraries**
 
