@@ -32,14 +32,6 @@ Using real-world survey and socioeconomic data, the analysis identifies which of
 
 Python (Programming Language), Pandas (Data manipulation), Seaborn and Matplotlib (Data visualization), and Numpy (Mathematical operations)
 
-# **Project Structure**
-
-├── data/                # Raw and cleaned datasets
-├── notebooks/           # Jupyter notebooks with analysis
-├── results/             # Charts, plots, and summary outputs
-├── src/                 # Helper functions and scripts
-└── README.md            # Project documentation
-
 # **How to run on your device**
 
 Clone this repository by running the following command
