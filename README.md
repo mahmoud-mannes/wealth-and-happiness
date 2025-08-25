@@ -47,10 +47,15 @@ You are now free to open the Notebooks on your own devices and manipulate them a
 # **Data sources**
 
 World Happiness Report 2024: https://www.worldhappiness.report/ed/2024/
+
 World Happiness Report 2023: https://www.worldhappiness.report/ed/2023/
+
 World Bank Open Data GDP per capita: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+
 World Bank Open Data Corruption: https://data360.worldbank.org/en/indicator/VDEM_CORE_V2X_PUBCORR
+
 World Bank Open Data Social Development: https://data.worldbank.org/topic/social-development
+
 World Bank Open Data Safety and Security: https://data360.worldbank.org/en/indicator/WEF_TTDI_TTDI_A_02
 
 # **Conclusion**
