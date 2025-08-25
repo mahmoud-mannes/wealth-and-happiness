@@ -44,3 +44,15 @@ Install the required libraries
 
 You are now free to open the Notebooks on your own devices and manipulate them as you wish!
 
+# **Data sources**
+
+World Happiness Report 2024: https://www.worldhappiness.report/ed/2024/
+World Happiness Report 2023: https://www.worldhappiness.report/ed/2023/
+World Bank Open Data GDP per capita: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+World Bank Open Data Corruption: https://data360.worldbank.org/en/indicator/VDEM_CORE_V2X_PUBCORR
+World Bank Open Data Social Development: https://data.worldbank.org/topic/social-development
+World Bank Open Data Safety and Security: https://data360.worldbank.org/en/indicator/WEF_TTDI_TTDI_A_02
+
+# **Conclusion**
+
+This project highlights how different aspects of life such as wealth, health, corruption and safety impact our well-being and satisfication with our lives, with health emerging as the single biggest predictor of happiness and life satisfaction (among the factors we've studied).
